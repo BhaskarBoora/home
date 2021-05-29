@@ -1,2 +1,2 @@
-# risk.github.io
+# home
 My finance website
